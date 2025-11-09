@@ -1,0 +1,5 @@
+runners\TestRunner.class
+stepdefinitions\PurchaseSteps.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\CartPage.class
