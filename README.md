@@ -77,7 +77,8 @@ Purchase flow for Sauce Labs products:
 - Status: ✅ PASSED
 
 ## Demo Video
-[Watch Test Execution](Video will be added later)
+- Video VSCODE : https://drive.google.com/file/d/1IwYSF-cfFcQaop2QAxQZxGPrPU7S8Kyl/view?usp=sharing
+- Video aplikasi : https://drive.google.com/file/d/1oL7ES4_X5ynsDS3oS3pfg5LXaCRPQlXu/view?usp=sharing
 
 ## Author
 [Muhammad Ihsan Rafii]
